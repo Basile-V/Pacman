@@ -1,0 +1,7 @@
+Projet Tutoré de FELIUS Robin et VANDERVALLE Basile
+
+Contenu :
+	-Compte rendu format pdf
+	-Projet Eclipse (Projet PacMan)
+	-Dossier des fichiers du jeu (PacManJeu)
+	-Racourci pour jouer directement au jeu
